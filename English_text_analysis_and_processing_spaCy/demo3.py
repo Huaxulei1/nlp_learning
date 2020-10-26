@@ -1,3 +1,5 @@
+# 基于displacy做可视化的命名实体识别
+
 import spacy
 from spacy import displacy
 
